@@ -1,8 +1,8 @@
 # Projects
 Stuff I made
 
+---
 
-## Projects
 | Project      | Date | Technologies | Repo Link |  Deploy Link |
 |--------------|------|--------------|-----------|--------------|
 |RGB Game      |          |          |              |          |
