@@ -1,5 +1,5 @@
 # Projects
-Stuff I made
+**Stuff I made**
 
 ---
 
