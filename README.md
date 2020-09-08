@@ -8,9 +8,9 @@ Newest first
 | Project         | Date     | Technologies       | :octocat:  Repo     |  Deployed App         |
 |-----------------|----------|--------------------|:-------------------:|:---------------------:|
 |[Portfolio Site](#) | Sep 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Portfolio repo") | [:rocket:](# "Open portfolio site") |
-|[Flexbox Dox](#) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Flexbox Dox repo") | [:rocket:](# "Open Flexbox Dox") |
-|[Chillishack](#) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Chillishack repo") | [:rocket:](# "Open Chillishack") |
-|[Bike Survey](https://github.com/MakeItBack/Bike-Survey) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Bike-Survey "Survey repo") | [:rocket:](https://bike-survey.netlify.app// "Open Survey") |
+|[Flexbox Dox](https://github.com/MakeItBack/Flexbox-Dox) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Flexbox-Dox "Flexbox Dox repo") | [:rocket:](https://flexboxdox.netlify.app/ "Open Flexbox Dox") |
+|[Chillishack](https://github.com/MakeItBack/Chillishack) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Chillishack "Chillishack repo") | [:rocket:](https://chillishack.netlify.app/ "Open Chillishack") |
+|[Bike Survey](https://github.com/MakeItBack/Bike-Survey) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Bike-Survey "Survey repo") | [:rocket:](https://bike-survey.netlify.app/ "Open Survey") |
 |[Tribute Page](https://github.com/MakeItBack/Tribute) | Aug 2020 | HTML, CSS, Netlify | [	:gear:](https://github.com/MakeItBack/Tribute "Tribute repo") | [:rocket:](https://record-tribute.netlify.app/ "Open Tribute") |
 |[Dice Roller](https://github.com/MakeItBack/Dice-Roller) | Aug 2020 | HTML, CSS, Javascript, jQuery, Bootstrap 4, Netlify | [	:gear:](https://github.com/MakeItBack/Dice-Roller "Dice Roller repo") | [:rocket:](https://olives-dice-roller.netlify.app/ "Open Dice Roller") |
 |[Find-a-Movie](https://github.com/MakeItBack/Find-a-Movie) | May 2020 | HTML, CSS, Javascript, API, bootstrap 4 | [	:gear:](https://github.com/MakeItBack/Find-a-Movie "Find-a-Movie repo") | [:rocket:](https://find-a-movie.netlify.app/ "Open Find-a-Movie") |
