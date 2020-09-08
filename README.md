@@ -7,7 +7,7 @@ Newest first
 
 | Project         | Date     | Technologies       | :octocat:  Repo     |  Deployed App         |
 |-----------------|----------|--------------------|:-------------------:|:---------------------:|
-|[Web dev Portfolio](#) | Sep 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Portfolio repo") | [:rocket:](# "Open portfolio site") |
+|[Portfolio Site](#) | Sep 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Portfolio repo") | [:rocket:](# "Open portfolio site") |
 |[Flexbox Dox](#) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Flexbox Dox repo") | [:rocket:](# "Open Flexbox Dox") |
 |[Chillishack](#) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](# "Chillishack repo") | [:rocket:](# "Open Chillishack") |
 |[Bike Survey](https://github.com/MakeItBack/Bike-Survey) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Bike-Survey "Survey repo") | [:rocket:](https://bike-survey.netlify.app// "Open Survey") |
