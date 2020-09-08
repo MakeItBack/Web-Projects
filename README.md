@@ -8,7 +8,7 @@ Newest first
 | Project         | Date     | Technologies       | :octocat:  Repo     |  Deployed App         |
 |-----------------|----------|--------------------|:-------------------:|:---------------------:|
 |[Portfolio Site](https://github.com/MakeItBack/Portfolio-Site-fCC) | Sep 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Portfolio-Site-fCC "Portfolio repo") | [:rocket:](# "Open portfolio site") |
-|[Flexbox Dox](https://github.com/MakeItBack/Flexbox-Dox) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Flexbox-Dox "Flexbox Dox repo") | [:rocket:](https://flexboxdox.netlify.app/ "Open Flexbox Dox") |
+|[Flexbox Dox](https://github.com/MakeItBack/Flexbox-Dox) | Aug 2020 | HTML, CSS, Netlify | [	:gear:](https://github.com/MakeItBack/Flexbox-Dox "Flexbox Dox repo") | [:rocket:](https://flexboxdox.netlify.app/ "Open Flexbox Dox") |
 |[Chillishack](https://github.com/MakeItBack/Chillishack) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Chillishack "Chillishack repo") | [:rocket:](https://chillishack.netlify.app/ "Open Chillishack") |
 |[Bike Survey](https://github.com/MakeItBack/Bike-Survey) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Bike-Survey "Survey repo") | [:rocket:](https://bike-survey.netlify.app/ "Open Survey") |
 |[Tribute Page](https://github.com/MakeItBack/Tribute) | Aug 2020 | HTML, CSS, Netlify | [	:gear:](https://github.com/MakeItBack/Tribute "Tribute repo") | [:rocket:](https://record-tribute.netlify.app/ "Open Tribute") |
