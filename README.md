@@ -1,5 +1,5 @@
 # Projects
-**A index -  of tuff I made**<br>
+**A project index - stuff I made**<br>
 Newest first
 
 ---
