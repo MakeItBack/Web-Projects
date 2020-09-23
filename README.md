@@ -7,7 +7,7 @@ ___
 
 | Project         | Date     | Technologies       | :octocat:  Repo     |  Deployed App         |
 |-----------------|----------|--------------------|:-------------------:|:---------------------:|
-|[Portfolio Site][portfolio] | Sep 2020 | HTML, CSS, Netlify, google fonts | [	:gear:][portfolio] | [:rocket:][portfolio_d] |
+|[Portfolio Site][portfolio_r] | Sep 2020 | HTML, CSS, Netlify, google fonts | [	:gear:][portfolio_r] | [:rocket:][portfolio_d] |
 |[Flexbox Dox](https://github.com/MakeItBack/Flexbox-Dox) | Aug 2020 | HTML, CSS, Netlify | [	:gear:](https://github.com/MakeItBack/Flexbox-Dox "Flexbox Dox repo") | [:rocket:](https://flexboxdox.netlify.app/ "Open Flexbox Dox") |
 |[Chillishack](https://github.com/MakeItBack/Chillishack) | Aug 2020 | HTML, CSS, Netlify, google fonts, Font Awesome | [	:gear:](https://github.com/MakeItBack/Chillishack "Chillishack repo") | [:rocket:](https://chillishack.netlify.app/ "Open Chillishack") |
 |[Bike Survey](https://github.com/MakeItBack/Bike-Survey) | Aug 2020 | HTML, CSS, Netlify, google fonts | [	:gear:](https://github.com/MakeItBack/Bike-Survey "Survey repo") | [:rocket:](https://bike-survey.netlify.app/ "Open Survey") |
@@ -18,8 +18,8 @@ ___
 |[Ratatat](https://github.com/MakeItBack/Ratatat) | Dec 2019 | HTML, CSS, Javascript, paperjs, howlerjs | [	:gear:](https://github.com/MakeItBack/Ratatat "Ratatat repo") | [:rocket:](https://ratatat.netlify.app/ "Open Ratatat") |
 |[RGB Game](https://github.com/MakeItBack/RGB-Game) | Oct 2019 | HTML, CSS, Javascript | [	:gear:](https://github.com/MakeItBack/RGB-Game "RGB Game repo") | [:rocket:](https://redgreenblue.netlify.app/ "Open RGB Game") |
 
-[portfolio_r]:https://github.com/MakeItBack/Portfolio-Site-fCC "Portfolio repo"
-[portfolio_d]:https://mikeback.netlify.app/ "Open portfolio site"
+[portfolio_r]: https://github.com/MakeItBack/Portfolio-Site-fCC "Portfolio repo"
+[portfolio_d]: https://mikeback.netlify.app/ "Open portfolio site"
 
 
 
