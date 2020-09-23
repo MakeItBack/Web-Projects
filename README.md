@@ -2,7 +2,7 @@
 **A project index - stuff I made**<br>
 Newest first
 
----
+___
 
 
 | Project         | Date     | Technologies       | :octocat:  Repo     |  Deployed App         |
