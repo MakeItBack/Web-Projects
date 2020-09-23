@@ -19,7 +19,7 @@ ___
 |[RGB Game](https://github.com/MakeItBack/RGB-Game) | Oct 2019 | HTML, CSS, Javascript | [	:gear:](https://github.com/MakeItBack/RGB-Game "RGB Game repo") | [:rocket:](https://redgreenblue.netlify.app/ "Open RGB Game") |
 
 [portfolio_r]: https://github.com/MakeItBack/Portfolio-Site-fCC "Portfolio repo"
-[portfolio_d]: https://mikeback.netlify.app/ "Open portfolio site"
+[portfolio_d]: https://www.mikeback.me "Open portfolio site"
 
 
 
