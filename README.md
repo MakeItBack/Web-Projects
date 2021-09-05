@@ -7,7 +7,7 @@ ___
 
 | Project         | Date     | Technologies       | :octocat:  Repo     |  Deployed App         |
 |-----------------|----------|--------------------|:-------------------:|:---------------------:|
-|[Trello Cleanup][trellotrash_r]   | Aug 2021 | HTML, Sass, Netlify, Axios, Trello API                  | [	:gear:][trellotrash_r]  | :no_entry: |
+|[Trello Cleanup][trellotrash_r]   | Aug 2021 | HTML, Sass, Netlify, Axios, Trello API                  | [	:gear:][trellotrash_r]  | :no_entry_sign:           |
 |[Portfolio Site][portfolio_r]     | Sep 2020 | HTML, CSS, Netlify, google fonts                        | [	:gear:][portfolio_r]    | [:rocket:][portfolio_d]   |
 |[Flexbox Dox][flexboxdox_r]       | Aug 2020 | HTML, CSS, Netlify                                      | [	:gear:][flexboxdox_r]   | [:rocket:][flexboxdox_d]  |
 |[Chillishack][chillishack_r]      | Aug 2020 | HTML, CSS, Netlify, google fonts, Font Awesome          | [	:gear:][chillishack_r]  | [:rocket:][chillishack_d] |
